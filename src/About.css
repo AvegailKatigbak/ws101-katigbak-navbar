@@ -1,0 +1,17 @@
+.about-container {
+    background-color: #ffebcd;
+    padding: 30px;
+    text-align: left;
+    color: #333;
+    height: 100vh;
+  }
+  
+  .about-container h1 {
+    font-size: 2.5rem;
+    color: #8b4513;
+  }
+  
+  .about-container p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }

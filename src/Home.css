@@ -1,0 +1,17 @@
+.home-container {
+    background-color: #d6e6f3;
+    padding: 20px;
+    text-align: center;
+    color: rgb(68, 14, 14);
+    height: 100vh;
+  }
+  
+  .home-container h1 {
+    font-size: 3rem;
+    color: #496683;
+  }
+  
+  .home-container p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
